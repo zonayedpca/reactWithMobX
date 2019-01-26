@@ -1,5 +1,6 @@
 {
   "name": "shopping-budget",
+  "homepage": "https://zonayedpca.github.io/reactWithMobX",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
